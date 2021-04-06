@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👩‍💻 배움을 즐기는 개발자, ${전혜린}입니다. 
 
-<!--
-**devheyrin/devheyrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🤹 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Back-End
+
+- Java, Spring MVC, Spring Boot, Oracle
+
+#### Front-End
+
+- HTML5, CSS3, JavaScript
+
+#### 🌱 I’m currently learning ...
+- ReactJS, MySQL
