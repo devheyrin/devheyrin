@@ -3,15 +3,13 @@
 
 ### 🤹 Skills
 
----
-
 #### Back-End
 
-- Java, Spring MVC, Spring Boot, Oracle
+Java, Spring MVC, Spring Boot, Oracle
 
 #### Front-End
 
-- HTML5, CSS3, JavaScript
+HTML5, CSS3, JavaScript
 
 #### 🌱 I’m currently learning ...
-- ReactJS, MySQL
+ReactJS, MySQL
