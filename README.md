@@ -5,7 +5,7 @@
 
 #### Back-End
 
-Java, Spring Boot
+Java, Spring Boot, Node.js
 
 Python, Django
 
